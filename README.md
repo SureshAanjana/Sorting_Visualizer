@@ -1,6 +1,6 @@
 # Sorting Visualizer 🎨📊
 # Overview
-Sorting Visualizer is a web-based tool designed to visually demonstrate various sorting algorithms. This project provides an interactive and educational experience, helping users understand the mechanics of sorting through animated visualizations. It is built using HTML, CSS, and JavaScript.
+Sorting Visualizer is a web-based tool designed to visually demonstrate various sorting algorithms. This project provides an interactive and educational experience, helping users understand the mechanics of sorting through animated visualizations. It is built using HTML, CSS, and JavaScript.[link](http://127.0.0.1:5500/index.html)
 
 # Features
 # 🎨 Dynamic Visualizations: Watch sorting algorithms in action as they manipulate an array of bars.
