@@ -9,11 +9,16 @@ Sorting Visualizer is a web-based tool designed to visually demonstrate various 
 
 **Sorting Speed:** Customize the animation speed to your preference.
 ## 🛠️ Sorting Algorithms:
-Bubble Sort
-Insertion Sort
-Quick Sort
-Merge Sort
-Selection Sort
+
+**Bubble Sort**
+
+**Insertion Sort**
+
+**Quick Sort**
+
+**Merge Sort**
+
+**Selection Sort**
 
 # Technologies Used
 **HTML5:** For the structure of the webpage.
