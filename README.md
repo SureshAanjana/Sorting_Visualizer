@@ -6,6 +6,7 @@ Sorting Visualizer is a web-based tool designed to visually demonstrate various 
 # 🎨 Dynamic Visualizations: Watch sorting algorithms in action as they manipulate an array of bars.
 ## ⚙️ Adjustable Controls:
 **Array Size:** Change the number of elements to be sorted.
+
 **Sorting Speed:** Customize the animation speed to your preference.
 ## 🛠️ Sorting Algorithms:
 Bubble Sort
@@ -16,5 +17,7 @@ Selection Sort
 
 # Technologies Used
 **HTML5:** For the structure of the webpage.
+
 **CSS3:** For styling and layout.
+
 **JavaScript:** For implementing sorting algorithms and animations
